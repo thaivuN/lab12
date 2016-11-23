@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab12</string>
+    <string name="header">Chuck Norris Jokes</string>
+    <string name="name_input_field">Put your weak name</string>
+    <string name="random_joke_btn">One Random Joke</string>
+    <string name="use_name_btn">Use My Name</string>
+</resources>
